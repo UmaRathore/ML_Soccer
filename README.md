@@ -9,4 +9,4 @@ Libraries:
 1) Pandas
 2) Seaborn
 3) Bokeh
-4) Jupyter Notebook
+4) PyCharm
